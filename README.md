@@ -1,4 +1,4 @@
-*Hi there, I'm Bowen 👋*
+***Hi there, I'm Bowen 👋***
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on Grok's NCSS Challenge
