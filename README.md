@@ -8,23 +8,4 @@
 - ⚡ Fun fact: I play the clarinet
 
 ## Technologies I Use
-- JavaScript
-- HTML/CSS
-- Python
-- Java
-- C#
-- C++
-- Node.js
-- Pandas
-- Tensorflow/Keras
-- Unity
-- Cordova
-- Xamarin
-- Unreal Engine
-- Visual Studio Code
-- Visual Studio
-- Notepad++
-- IntelliJ IDEA
-- Android Studio
-- PyCharm
-- IPython/Jupyter
+JavaScript, HTML/CSS, Python, Java, C#, C++, Node.js, Pandas, Tensorflow/Keras, Unity, Cordova, Xamarin, Unreal Engine, Visual Studio Code, Visual Studio, Notepad++, IntelliJ IDEA, Android Studio, PyCharm, IPython/Jupyter
