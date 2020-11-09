@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on a game called life
 - 🌱 I’m currently learning everything
-- 🤔 I’m looking for help with Arduino (It never works 😭)
+- 🤔 I’m looking for help with OpenGL
 - 💬 Ask me about Python stuff
 - ⚡ Fun fact: I play the clarinet
 
