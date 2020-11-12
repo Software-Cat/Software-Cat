@@ -1,7 +1,7 @@
 ***Hi there, I'm Bowen 👋***
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a game called life
+- 🔭 I’m currently working on Tic Tac Toe AIs.
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with OpenGL
 - 💬 Ask me about Python stuff
