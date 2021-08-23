@@ -1,7 +1,7 @@
 ***Hi there, I'm Bowen 👋***
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on Roulette Simulation.
+- 🔭 I’m currently working on NCSS Challenge 2021.
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with OpenGL
 - 💬 Ask me about Python stuff
