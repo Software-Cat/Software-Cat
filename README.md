@@ -1,3 +1,5 @@
+![Bowen Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Software-Cat&show_icons=true)
+
 ***Hi there, I'm Bowen 👋***
 
 ## I'm a Student and Developer!
