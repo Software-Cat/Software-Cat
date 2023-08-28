@@ -2,8 +2,6 @@
 print("Hello World! I'm Bowen. 👋")
 ```
 
-![Bowen Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Software-Cat&show_icons=true)
-
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything
 - 💬 Ask me about Python stuff
