@@ -1,5 +1,5 @@
 ```py
-print("Hello World! I'm Bowen. 👋")
+print("Hello World! 👋")
 ```
 
 ## I'm a Student and Developer!
